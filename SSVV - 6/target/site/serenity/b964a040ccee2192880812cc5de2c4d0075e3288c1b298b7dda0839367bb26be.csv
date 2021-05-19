@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword tricou should display the corresponding article","FAILURE","2021-05-18T13:21:40.5164873+03:00[Europe/Athens]","0.0","15.68"
+"Search by keyword story","Searching by keyword phone should display the corresponding article","FAILURE","2021-05-18T13:26:03.8061988+03:00[Europe/Athens]","0.0","16.08"
+"Search by keyword story","Searching by keyword jeans should display the corresponding article","FAILURE","2021-05-18T16:40:16.0016626+03:00[Europe/Athens]","0.0","8.78"

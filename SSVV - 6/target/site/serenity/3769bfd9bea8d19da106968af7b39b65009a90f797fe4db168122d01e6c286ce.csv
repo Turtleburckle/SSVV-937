@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword kids should display the corresponding article","SUCCESS","2021-05-18T13:10:29.488544+03:00[Europe/Athens]","0.0","7.76"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2021-05-18T13:10:37.8442136+03:00[Europe/Athens]","0.0","3.51"
+"Search by keyword story","Searching by keyword color should display the corresponding article","SUCCESS","2021-05-18T13:10:41.5261284+03:00[Europe/Athens]","0.0","4.77"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2021-05-18T13:10:46.8305032+03:00[Europe/Athens]","0.0","3.94"
+"Search by keyword story","Searching by keyword invalid blouse should display the corresponding article","SUCCESS","2021-05-18T16:39:54.5037322+03:00[Europe/Athens]","0.0","12.06"
+"Search by keyword story","Searching by keyword jeans invalid should display the corresponding article","SUCCESS","2021-05-18T16:40:07.3773769+03:00[Europe/Athens]","0.0","8.05"
+"Search by keyword story","Searching by keyword blouse should display the corresponding article","SUCCESS","2021-05-18T16:40:26.0418936+03:00[Europe/Athens]","0.0","6.0"

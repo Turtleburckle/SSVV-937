@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 42.285 s <<< FAILURE! - in org.example.features.search.SearchByKeywordStory
+searching_by_keyword_jeans_should_display_the_corresponding_article(org.example.features.search.SearchByKeywordStory)  Time elapsed: 8.78 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a collection containing a string containing "386 articole"
+     but: was "647 articole"
+	at org.example.features.search.SearchByKeywordStory.searching_by_keyword_jeans_should_display_the_corresponding_article(SearchByKeywordStory.java:44)
+

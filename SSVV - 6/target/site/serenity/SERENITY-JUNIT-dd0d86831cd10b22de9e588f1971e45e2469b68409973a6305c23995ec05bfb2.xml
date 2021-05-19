@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.example.features.search.SearchByKeywordStory" skipped="1" tests="5" time="35.29" timestamp="2021-05-18 04:39:54"><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword invalid blouse should display the corresponding article"/><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword jeans invalid should display the corresponding article"/><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword jeans should display the corresponding article"><failure message="&#10;Expected: a collection containing a string containing &quot;386 articole&quot;&#10;     but: was &quot;647 articole&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "386 articole"
+     but: was "647 articole"</failure><system-err>
+Expected: a collection containing a string containing "386 articole"
+     but: was "647 articole"&#13;
+org.example.steps.serenity.EndUserSteps.should_see_definition(EndUserSteps.java:29)&#13;
+org.example.features.search.SearchByKeywordStory.searching_by_keyword_jeans_should_display_the_corresponding_article(SearchByKeywordStory.java:44)&#13;
+</system-err></testcase><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by ambiguious keyword should display the disambiguation page"><skipped/></testcase><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword blouse should display the corresponding article"/></testsuite>

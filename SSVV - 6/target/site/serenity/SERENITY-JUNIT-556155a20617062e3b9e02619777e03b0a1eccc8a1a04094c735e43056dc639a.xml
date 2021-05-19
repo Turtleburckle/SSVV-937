@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.SearchByKeywordStory" skipped="0" tests="1" time="11.76" timestamp="2021-05-18 04:53:40"><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword blouse should display the corresponding article"/></testsuite>
